@@ -11,9 +11,10 @@ The Jar system represents a sophisticated desktop assistant designed to streamli
 
 
 
-![Screenshot 2024-04-27 113356](https://github.com/djdhairya/J.A.R/assets/99894946/1310a754-6e83-4ec5-9eb0-320ecaf67e8d)
-![Screenshot 2024-04-27 113622](https://github.com/djdhairya/J.A.R/assets/99894946/3b6e4a73-5512-4cad-8b02-5de8b7f77114)
-![Screenshot 2024-04-27 113652](https://github.com/djdhairya/J.A.R/assets/99894946/d21e1336-6d90-4297-a8dc-d0e6257c242b)
+![WhatsApp Image 2024-05-03 at 3 06 39 PM](https://github.com/djdhairya/J.A.R/assets/99894946/d7218ea6-ad3c-44f0-9b79-fa1916003b8e)
+![Screenshot 2024-05-03 013459](https://github.com/djdhairya/J.A.R/assets/99894946/4cf6df97-8197-46c4-bf07-f7beccb82e09)
+
+
 
 ![image](https://github.com/djdhairya/J.A.R/assets/99894946/3d4ee281-0636-4de9-bc4c-f9f58e3d5e0a)
 
